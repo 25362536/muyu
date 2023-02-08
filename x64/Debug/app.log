@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\程序\app\源.cpp(22,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\程序\app\源.cpp(23,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\app\源.cpp(23,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\app\源.cpp(29,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\程序\app\源.cpp(30,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\app\源.cpp(30,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  app.vcxproj -> D:\程序\app\x64\Debug\app.exe
